@@ -13,11 +13,6 @@
   Symptom-to-disease prediction and smart health insights for users and clinicians.
   <br />
   <br />
-  <a href="#">Live Demo (soon)</a>
-  ·
-  <a href="https://github.com/M-Nivetha7/HealthScope/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/M-Nivetha7/HealthScope/issues">Request Feature</a>
 </p>
 
 ---
