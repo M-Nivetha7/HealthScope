@@ -86,11 +86,6 @@ text
 
 ---
 
-## 🖼 Screenshots
-
-_Add some screenshots or GIFs of HealthScope here to show the flow._
-
----
 
 ## 🤝 Contributing
 
