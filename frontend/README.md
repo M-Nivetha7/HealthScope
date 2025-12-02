@@ -3,26 +3,10 @@
   <img src="https://img.shields.io/badge/HealthScope-Smart%20Health%20Insights-22c55e?style=for-the-badge" alt="HealthScope Badge" />
 </p>
 
-<div align="center">
-  <h1 class="hs-title">HealthScope 🩺</h1>
-</div>
+<p align="center">
+  <img src="assets/healthscope-title.gif" alt="HealthScope 🩺" width="420" />
+</p>
 
-<style>
-  .hs-title {
-    display: inline-block;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: 40px;
-    font-weight: 800;
-    color: #22c55e;
-    text-shadow: 0 0 12px rgba(34, 197, 94, 0.4);
-    animation: hs-float 3s ease-in-out infinite;
-  }
-  @keyframes hs-float {
-    0%   { transform: translateY(0); }
-    50%  { transform: translateY(-6px); }
-    100% { transform: translateY(0); }
-  }
-</style>
 
 
 <!-- PROJECT TITLE -->
