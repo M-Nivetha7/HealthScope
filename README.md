@@ -99,6 +99,5 @@ Distributed under the MIT License. See `LICENSE` for more info.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Python%20%26%20React-blue?style=for-the-badge" alt="Made with Python & React"/>
-  <img src="https://img.shields.io/badge/Code-Friendly-OpenSource-green?style=for-the-badge" alt="Open Source"/>
 </p>
 
