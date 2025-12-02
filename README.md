@@ -87,12 +87,6 @@ npm run dev
 
 ---
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more info.
-
----
-
 <p align="center">
   Made with ❤️ by <strong>M. Nivetha</strong>
 </p>
