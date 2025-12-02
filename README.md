@@ -11,9 +11,6 @@
   <strong>Symptom-to-Disease Prediction & Smart Health Insights</strong>  
   Helping users and clinicians make informed decisions in seconds.
   <br/>
-  <a href="#">🚀 Live Demo (Coming Soon)</a> · 
-  <a href="https://github.com/M-Nivetha7/HealthScope/issues">🐞 Report Bug</a> · 
-  <a href="https://github.com/M-Nivetha7/HealthScope/issues">💡 Request Feature</a>
 </p>
 
 ---
