@@ -3,41 +3,11 @@
   <img src="https://img.shields.io/badge/HealthScope-Smart%20Health%20Insights-22c55e?style=for-the-badge" alt="HealthScope Badge" />
 </p>
 
+<!-- Animated floating title (SVG stored in repo) -->
 <p align="center">
-  <svg width="420" height="90" viewBox="0 0 420 90" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .hs-bg { fill: #020617; }
-      .hs-text {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-        font-size: 32px;
-        font-weight: 700;
-        fill: #22c55e;
-      }
-      .hs-sub {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-        font-size: 14px;
-        fill: #e5e7eb;
-      }
-      .hs-float {
-        animation: hs-float 3s ease-in-out infinite;
-      }
-      @keyframes hs-float {
-        0%   { transform: translateY(0px);   }
-        50%  { transform: translateY(-6px);  }
-        100% { transform: translateY(0px);   }
-      }
-    </style>
-
-    <g class="hs-float">
-      <rect class="hs-bg" x="10" y="10" rx="18" ry="18" width="400" height="70" />
-
-      <text class="hs-text" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle">
-        HealthScope 🩺
-      </text>
-    </g>
-  </svg>
+  <!-- Put your animated SVG in: assets/healthscope-title.svg -->
+  <img src="assets/healthscope-title.svg" alt="HealthScope 🩺" width="420" />
 </p>
-
 
 <p align="center">
   Symptom-to-disease prediction and smart health insights for users and clinicians.
@@ -62,7 +32,7 @@
 
 ## 🚀 Tech Stack
 
-- **Frontend:** React / Vite (or your actual stack)  
+- **Frontend:** React / Vite (adjust to your actual stack)  
 - **Backend:** Django / Node.js API for prediction  
 - **ML:** Trained model served via REST API  
 
@@ -74,7 +44,7 @@
 
 - Python 3.11+  
 - Node.js and npm/yarn  
-- Git
+- Git  
 
 ### Installation
 
