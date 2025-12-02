@@ -1,3 +1,49 @@
+<div align="center">
+<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#00d2ff" />
+      <stop offset="100%" stop-color="#3a7bd5" />
+    </linearGradient>
+  </defs>
+
+  <text x="-650" y="70" font-size="60" font-family="Segoe UI, Verdana, Arial" font-weight="700" fill="url(#grad)">
+    HEALTHSCOPE
+    <animate attributeName="x"
+      from="-650" to="50"
+      dur="1.4s"
+      begin="0.2s"
+      fill="freeze"
+    />
+  </text>
+</svg>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- PROJECT TITLE -->
 <p align="center">
   <img src="https://img.shields.io/badge/HealthScope-Smart%20Health%20Insights-22c55e?style=for-the-badge" alt="HealthScope Badge" />
