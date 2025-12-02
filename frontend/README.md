@@ -1,13 +1,15 @@
-<!-- PROJECT TITLE -->
-<p align="center">
-  <img src="https://img.shields.io/badge/HealthScope-Smart%20Health%20Insights-22c55e?style=for-the-badge" alt="HealthScope Badge" />
-</p>
-
 <!-- Animated floating title (SVG stored in repo) -->
 <p align="center">
   <!-- Put your animated SVG in: assets/healthscope-title.svg -->
   <img src="assets/healthscope-title.svg" alt="HealthScope 🩺" width="420" />
 </p>
+
+
+<!-- PROJECT TITLE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/HealthScope-Smart%20Health%20Insights-22c55e?style=for-the-badge" alt="HealthScope Badge" />
+</p>
+
 
 <p align="center">
   Symptom-to-disease prediction and smart health insights for users and clinicians.
