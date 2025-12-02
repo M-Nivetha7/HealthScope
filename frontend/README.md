@@ -1,5 +1,5 @@
 <div align="center">
-<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad" x1="0" x2="1">
       <stop offset="0%" stop-color="#00c6ff"/>
@@ -7,19 +7,20 @@
     </linearGradient>
   </defs>
 
-  <text id="txt" x="50" y="75"
-    font-size="60"
+  <text x="50" y="130"
+    font-size="130"
     font-family="Segoe UI, Verdana, Arial"
-    font-weight="700"
+    font-weight="900"
     fill="url(#grad)">
     HEALTHSCOPE
     <animate attributeName="letter-spacing"
-      values="6; 12; 6"
-      dur="2.2s"
+      values="8; 20; 8"
+      dur="2s"
       repeatCount="indefinite"/>
   </text>
 </svg>
 </div>
+
 
 
 
