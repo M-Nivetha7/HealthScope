@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/HealthScope-Smart%20Health%20Insights-22c55e?style=for-the-badge" alt="HealthScope Badge" />
-</p>
-
-<p align="center">
   <!-- Animated SVG title -->
   <img src="assets/healthscope-title.svg" alt="HealthScope 🩺" width="500"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HealthScope-Smart%20Health%20Insights-22c55e?style=for-the-badge" alt="HealthScope Badge" />
+</p>
+
 
 <p align="center">
   <strong>Symptom-to-Disease Prediction & Smart Health Insights</strong>  
