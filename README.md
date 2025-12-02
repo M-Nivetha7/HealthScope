@@ -50,3 +50,55 @@
 # Clone repository
 git clone https://github.com/M-Nivetha7/HealthScope.git
 cd HealthScope
+```
+
+### Backend Setup
+
+```cd backend
+python -m venv venv
+source venv/bin/activate   # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+python manage.py runserver
+```
+
+### Frontend Setup
+
+```cd ../frontend
+npm install
+npm run dev
+```
+
+## 🧠 How It Works
+
+1. User selects or types symptoms in the interface  
+2. Frontend sends input to the prediction API  
+3. ML model returns probable conditions with confidence scores  
+4. Results are visualized with charts, colors, and insights  
+
+---
+
+## 🤝 Contributing
+
+1. Fork the project  
+2. Create a feature branch: `git checkout -b feature/amazing-feature`  
+3. Commit your changes: `git commit -m "Add amazing feature"`  
+4. Push to the branch: `git push origin feature/amazing-feature`  
+5. Open a Pull Request  
+
+---
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more info.
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>M. Nivetha</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python%20%26%20React-blue?style=for-the-badge" alt="Made with Python & React"/>
+  <img src="https://img.shields.io/badge/Code-Friendly-OpenSource-green?style=for-the-badge" alt="Open Source"/>
+</p>
+
