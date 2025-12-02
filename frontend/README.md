@@ -5,7 +5,6 @@
 
 <!-- BIG ANIMATED HEALTHSCOPE TITLE -->
 <p align="center">
-  <!-- Put your animated GIF at this path in your repo -->
   <img src="assets/healthscope-title.gif" alt="HealthScope 🩺" width="600" />
 </p>
 
