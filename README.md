@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=1000&lines=🩺+HEALTHSCOPE+🩺+Smart+Health+Insights" alt="HealthScope Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=1000&lines=🩺+HEALTHSCOPE+🩺" alt="HealthScope Typing Animation"/>
 </p>
 
 
