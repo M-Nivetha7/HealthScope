@@ -1,7 +1,25 @@
 <p align="center">
-  <!-- Animated SVG title -->
-  <img src="assets/healthscope-title.svg" alt="HealthScope 🩺" width="500"/>
+  <span style="font-size:48px; font-weight:bold; color:#22c55e;">🩺 HEALTHSCOPE 🩺</span>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Smart%20Health%20Insights-22c55e?style=for-the-badge" alt="HealthScope Badge" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/HealthScope-Smart%20Health%20Insights-22c55e?style=for-the-badge" alt="HealthScope Badge" />
