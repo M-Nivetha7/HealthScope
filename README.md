@@ -88,7 +88,7 @@ npm run dev
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>M. Nivetha</strong>
+  Made with ❤️ by <strong>Nivetha Mayilvaganan</strong>
 </p>
 
 <p align="center">
