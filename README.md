@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=1000&lines=EMOTION+TUTOR" alt="Emotion Tutor Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=1000&lines=Health+Scope" alt="Emotion Tutor Typing Animation"/>
 </p>
 
 
